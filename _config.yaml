@@ -1,0 +1,2 @@
+
+exclude: ["catalog-info.yaml", "docs", "README.md"]
